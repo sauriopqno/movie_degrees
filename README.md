@@ -1,7 +1,7 @@
 # 🎬 Movie Degrees — Conecta Actores a Través de Películas
 <p align="center">
   <a href="https://movie-degrees-2.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge🎬/%20Probar%20la%20App%20en%20Render-blue?style=for-the-badge" alt="Probar en Render">
+    <img src="https://img.shields.io/badge/🎬%20Probar%20la%20App%20en%20Render-blue?style=for-the-badge" alt="Probar en Render">
   </a>
 </p>
 
