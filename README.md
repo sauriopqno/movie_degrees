@@ -1,4 +1,9 @@
 # 🎬 Movie Degrees — Conecta Actores a Través de Películas
+<p align="center">
+  <a href="https://movie-degrees-2.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge🎬/%20Probar%20la%20App%20en%20Render-blue?style=for-the-badge" alt="Probar en Render">
+  </a>
+</p>
 
 **Movie Degrees** es una aplicación web desarrollada con **Flask** que encuentra la conexión más corta entre dos actores a través de las películas en las que han participado juntos.  
 Además, muestra imágenes reales (obtenidas desde Wikipedia) y descripciones de las películas, todo con una interfaz visual moderna y responsive.
@@ -6,7 +11,6 @@ Además, muestra imágenes reales (obtenidas desde Wikipedia) y descripciones de
 ---
 
 ## 🌟 Vista previa
-https://movie-degrees-2.onrender.com/
 <img width="1900" height="898" alt="image" src="https://github.com/user-attachments/assets/397989cb-1318-407b-be86-ca7402c32316" />
 
 
